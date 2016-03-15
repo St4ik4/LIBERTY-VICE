@@ -1,0 +1,1 @@
+Assets/alien character/texture/alien body specular.tga
