@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scene/Space.unity
+- path: Assets/scene/destroyed_city.unity
   isLoaded: 1
   isActive: 1
